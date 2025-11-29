@@ -1,7 +1,7 @@
 
 ---
 
-# **NEXUS – Product Landing & Pre-Order Application**
+# **NEXUS**
 
 NEXUS es una esfera robótica autoequilibrada desarrollada por HedgeLabs. Este repositorio contiene la aplicación web oficial utilizada como landing page y sistema de pre-órdenes del producto. El sitio combina visualización 3D interactiva, presentación de especificaciones técnicas y funcionalidad de compra integrada.
 
@@ -18,23 +18,6 @@ La aplicación provee:
 * Integraciones externas para manejo de transacciones
 
 El objetivo del proyecto es ofrecer una experiencia de marketing premium que permita a los usuarios conocer el producto y realizar una reserva de manera simple e intuitiva.
-
----
-
-## 🤖 **Producto: NEXUS**
-
-Según la metadata declarada en el código fuente, NEXUS es presentado como:
-
-> **"Advanced Balancing Ball Robot"**
-> **"Self-Balancing Robotic Sphere"**
-> con “advanced stabilization technology, precision control, and cutting-edge design”.
-
-El sitio combina elementos multimedia y contenido informativo que destacan:
-
-* Estabilización avanzada
-* Control de precisión
-* Diseño moderno y sofisticado
-* Animaciones y assets visuales
 
 ---
 
