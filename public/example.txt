@@ -1,0 +1,6 @@
+menuentry "Puppy Linux Mini ISO" {
+	set iso_path="/boot/iso/mini.iso"
+	loopback loop (hd0,1) $iso_path
+	linux (loop)/vmlinuz pmedia=cd iso_filename=/boot/iso/mini.iso
+	initrd (loop)/initrd.gz
+}
